@@ -9,10 +9,13 @@ footer {
 
 img {
   display: block;
-  margin: 0 auto;
+  /* margin: 10px; */
+  margin: 30px auto;
   border-radius: 10px;
+  max-width: 100%;
 }
 
-footer {
-  padding: 15px;
+footer a {
+  /* padding: 15px; */
+  margin: 0 10px;
 }
